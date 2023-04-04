@@ -17,8 +17,8 @@ for file_name in list_of_files:
     if extension in [ '.png']:
 
         path1 = from_dir + '/' + file_name                               
-        path2 = to_dir + '/' + "Image_Files"                          
-        path3 = to_dir + '/' + "Image_Files" + '/' + file_name   
+        path2 = to_dir + '/' + "Doc_file"                          
+        path3 = to_dir + '/' + "Doc_file" + '/' + file_name   
       
 
 
